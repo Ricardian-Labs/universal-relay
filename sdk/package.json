@@ -1,0 +1,13 @@
+{
+  "name": "@ricardian/universal-relay",
+  "version": "1.0.0",
+  "description": "One-line gasless transactions for any token",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["gasless", "relay", "polygon", "web3"],
+  "author": "Ricardian Labs",
+  "license": "MIT",
+  "peerDependencies": {
+    "ethers": "^6.0.0"
+  }
+}
